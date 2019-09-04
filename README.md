@@ -4,4 +4,4 @@
 - Develop Build Status [![Build Status](https://travis-ci.org/BhoneHtutKyaw/DevOps.svg?branch=develop)](https://travis-ci.org/BhoneHtutKyaw/DevOps)
 - License [![LICENSE](https://img.shields.io/github/license/BhoneHtutKyaw/DevOps.svg?style=flat-square)](https://github.com/BhoneHtutKyaw/DevOps/blob/master/LICENSE)
 - Release [![Releases](https://img.shields.io/github/release/BhoneHtutKyaw/DevOps/all.svg?style=flat-square)](https://github.com/BhoneHtutKyaw/DevOps/releases)
-- CodeCoverage [![codecov](https://codecov.io/gh/BhoneHtutKyaw/DevOps/branch/master/graph/badge.svg)](https://codecov.io/gh/BhoneHtutKyaw/DevOps))
+- CodeCoverage [![codecov](https://codecov.io/gh/BhoneHtutKyaw/DevOps/branch/master/graph/badge.svg)](https://codecov.io/gh/BhoneHtutKyaw/DevOps)
