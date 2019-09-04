@@ -3,7 +3,7 @@
 When contributing to this repository, please first discuss about the progressions you wish to make by means of issuee, or some other technique with the proprietors of this archive before rolling out an improvement.
 Please note we have a code of conduct, if it's not too much trouble it in the entirety of your cooperations with the task [code of conduct].
 
-[code of conduct]:https://github.com/EinGyinMoe/Group3/blob/master/CODE_OF_CONDUCT.md
+[code of conduct]:https://github.com/BhoneHtutKyaw/DevOps/blob/master/CODE_OF_CONDUCT.md
 
 
 ### Report bugs with using Github's issues
