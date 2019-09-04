@@ -1,6 +1,7 @@
 # Software Engineering Methods
 
-- Master Build Status [![Build Status](https://travis-ci.org/BhoneHtutKyaw/DevOps.svg?branch=master)](https://travis-ci.org/BhoneHtutKyaw/DevOps)
-- Develop Build Status [![Build Status](https://travis-ci.org/BhoneHtutKyaw/DevOps.svg?branch=develop)](https://travis-ci.org/BhoneHtutKyaw/DevOps)
-- License [![LICENSE](https://img.shields.io/github/license/BhoneHtutKyaw/DevOps.svg?style=flat-square)](https://github.com/BhoneHtutKyaw/DevOps/blob/master/LICENSE)
-- Release [![Releases](https://img.shields.io/github/release/BhoneHtutKyaw/DevOps/all.svg?style=flat-square)](https://github.com/BhoneHtutKyaw/DevOps/releases)
+- Master Build Status [![Build Status](https://travis-ci.org/EinGyinMoe/devops.svg?branch=master)](https://travis-ci.org/EinGyinMoe/devops)
+- Develop Build Status [![Build Status](https://travis-ci.org/EinGyinMoe/devops.svg?branch=develop)](https://travis-ci.org/EinGyinMoe/devops)
+- License [![LICENSE](https://img.shields.io/github/license/EinGyinMoe/devops.svg?style=flat-square)](https://github.com/EinGyinMoe/devops/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/EinGyinMoe/devops/all.svg?style=flat-square)](https://github.com/EinGyinMoe/devops/releases)
+- Codecov [![codecov](https://codecov.io/gh/EinGyinMoe/devops/branch/master/graph/badge.svg)](https://codecov.io/gh/EinGyinMoe/devops)
